@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(67, 67, 67);
+}
+
+body {
+    background-color: rgb(221, 221, 221);
+}
+
+header , .title {
+    text-align: center;
+}
+
+
+.container {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 100%;
+}
+
+figcaption {
+    text-align: center;
+}
+
+#timeline-section {
+    margin:auto;
+    margin-top: 2rem;
+    max-width: 40rem;
+}
+
+.timeline > li {
+    margin-top: 1rem;
+}
+
+.timeline  {
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+}
+
+blockquote {
+    margin-bottom: 4rem;
+}
+footer {
+    text-align: center;
+}
+
+a {
+    color: rgb(22, 103, 174);
+}
